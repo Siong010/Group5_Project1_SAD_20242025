@@ -15,13 +15,15 @@ To modernize the existing system's backend and user interface while preserving i
 
 ## 📁 Repository Structure
 
-/Legacy-Healthcare-Management-System-Phase1
+```
+/legacy-healthcare-management-system-phase1
 ├── [SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/SECD2613_Project%20Phase%201_Legacy%20Healthcare%20Management%20System_Group%205.pdf)               # Final proposal document (1.0–8.0)
 ├── Diagrams/
 │   ├── [task-oriented_wbs.png](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/task-oriented_wbs.png)
 │   ├── [gantt.png](./diagrams/gantt.png)
 │   └── [pert.png](./diagrams/pert.png)
 └── [README.md](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/README.md)                                                                              # Project summary and navigation
+```
 
 Legacy-Healthcare-Management-System-Phase1<br/>
 ├──[README.md](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/README.md)<br/>
