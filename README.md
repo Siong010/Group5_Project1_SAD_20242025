@@ -20,7 +20,7 @@ Legacy-Healthcare-Management-System-Phase1
 ├── README.md
 ├── SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf               
 └── Diagrams
-    ├── task-oreinted_wbs.png
+    ├── task-oriented_wbs.png
     ├── gantt.png
     └── pert.png                                                                               
 ```
