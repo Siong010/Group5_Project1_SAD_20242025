@@ -19,7 +19,7 @@ To modernize the existing system's backend and user interface while preserving i
 Legacy-Healthcare-Management-System-Phase1
 ├── README.md
 ├── SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf               
-├── Diagrams
+└── Diagrams
     ├── task-oreinted_wbs.png
     ├── gantt.png
     └── pert.png                                                                               
