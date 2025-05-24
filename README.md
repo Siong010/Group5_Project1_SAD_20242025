@@ -48,6 +48,9 @@ Diagrams<br/>
 | 6.0     | Scope                          |
 | 7.0     | Project Planning               |
 | 8.0     | Benefits and Summary           |
+| 9.0     | Appendix A: Disclaimer         |
+| 10.0    | Appendix B: References         |
+| 11.0    | Appendix C: GitHub Snapshot    |
 
 ---
 
