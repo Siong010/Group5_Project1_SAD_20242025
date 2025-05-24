@@ -29,10 +29,10 @@ To modernize the existing system's backend and user interface while preserving i
 
 ## 🧑‍🤝‍🧑 Team Members
 
-- [Laily] – Project Manager  
-- [Siong] – Backend Developer  
-- [Lee] – Frontend Developer  
-- [Siti] – UI/UX Designer
+- [Laily]（https://github.com/lailies82） – Project Manager  
+- [Siong]（https://github.com/Siong010） – Backend Developer  
+- [Lee]（https://github.com/ryussiyu） – Frontend Developer  
+- [Siti]（https://github.com/smadakhir） – UI/UX Designer
 
 ---
 
