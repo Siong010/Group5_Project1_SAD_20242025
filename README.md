@@ -19,19 +19,11 @@ To modernize the existing system's backend and user interface while preserving i
 ├── [SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/SECD2613_Project%20Phase%201_Legacy%20Healthcare%20Management%20System_Group%205.pdf)
 ├── [diagrams](./diagrams/)        
 │   ├── [task-oriented_wbs.png](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/task-oriented_wbs.png)
-│   ├── [gantt.png](./diagrams/gantt.png)                                         # Gantt chart for project timeline
-│   └── [pert.png](./diagrams/pert.png)                                           # PERT chart for project planning
-└── [README.md](./README.md)                                                      # Project summary and navigation
-
-├── [SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/SECD2613_Project%20Phase%201_Legacy%20Healthcare%20Management%20System_Group%205.pdf)
-├── diagrams  
-│   ├── [task-oriented_wbs.png](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/task-oriented_wbs.png)  
-│   ├── [gantt.png]()
-│   └── [pert.png]()
+│   ├── [gantt.png](./diagrams/gantt.png)
+│   └── [pert.png](./diagrams/pert.png)
 └── [README.md](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/README.md)
-```
 
-```
+---
 
 ## 🧑‍🤝‍🧑 Team Members
 
