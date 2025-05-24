@@ -21,8 +21,8 @@ Legacy-Healthcare-Management-System-Phase1
 Diagrams<br/>
 - [task-oriented_wbs.png](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/task-oriented_wbs.png)<br/>
 - [gantt.png](./diagrams/gantt.png)<br/>
-- [pert.png](./diagrams/pert.png)<br/>
-- [README.md](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/README.md)
+- [pert.png](./diagrams/pert.png)<br/><br/>
+[README.md](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/README.md)
 
 ---
 
