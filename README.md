@@ -16,14 +16,13 @@ To modernize the existing system's backend and user interface while preserving i
 ## 📁 Repository Structure
 
 Legacy-Healthcare-Management-System-Phase1
-|
-|--[README.md](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/README.md)<br/>
-|
-|--[SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/SECD2613_Project%20Phase%201_Legacy%20Healthcare%20Management%20System_Group%205.pdf)<br/><br/>
-    |--Diagrams<br/>
-        |--[task-oriented_wbs.png](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/task-oriented_wbs.png)<br/>
-        |--[gantt.png](./diagrams/gantt.png)<br/>
-        |--[pert.png](./diagrams/pert.png)<br/>
+├──[README.md](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/README.md)<br/>
+│
+├──[SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/SECD2613_Project%20Phase%201_Legacy%20Healthcare%20Management%20System_Group%205.pdf)<br/><br/>
+    ├──Diagrams<br/>
+    ├──[task-oriented_wbs.png](https://github.com/Siong010/Group5_Project1_SAD_20242025/blob/main/task-oriented_wbs.png)<br/>
+    ├──[gantt.png](./diagrams/gantt.png)<br/>
+    └──[pert.png](./diagrams/pert.png)<br/>
 
 ---
 
