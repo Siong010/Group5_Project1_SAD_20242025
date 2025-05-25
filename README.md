@@ -50,7 +50,6 @@ Legacy-Healthcare-Management-System-Phase1
 | 8.0     | Benefits and Summary           |
 | 9.0     | Appendix A: Disclaimer         |
 | 10.0    | Appendix B: References         |
-| 11.0    | Appendix C: GitHub Snapshot    |
 
 ---
 
