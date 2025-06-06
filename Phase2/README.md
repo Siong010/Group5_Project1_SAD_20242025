@@ -16,10 +16,15 @@ To modernize the existing system's backend and user interface while preserving i
 ## 📁 Repository Structure
 
 ```
-Legacy-Healthcare-Management-System-Phase1
+Legacy-Healthcare-Management-System-Phase2
 ├── README.md
 ├── SECD2613_Project Phase 2_Legacy Healthcare Management System_Group 5.pdf               
 └── Diagrams
+    ├── .png
+    ├── .png
+    ├── .png
+    ├── .png
+    ├── .png
     ├── .png
     ├── .png
     └── .png                                                                               
