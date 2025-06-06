@@ -1,6 +1,6 @@
-# 🏥 Modernization of Legacy Healthcare Management System – Phase 1
+# 🏥 Modernization of Legacy Healthcare Management System – Phase 2
 
-This repository contains the Phase 1 proposal and planning documentation for a system modernization project. The objective is to technically upgrade a legacy Healthcare Management System (HMS) originally built in 1997 using outdated technologies like Progress 10C and Silverlight.
+This repository contains the Phase 2 proposal and planning documentation for a system modernization project. The objective is to technically upgrade a legacy Healthcare Management System (HMS) originally built in 1997 using outdated technologies like Progress 10C and Silverlight.
 
 ## 🎯 Project Objective
 
@@ -18,12 +18,33 @@ To modernize the existing system's backend and user interface while preserving i
 ```
 Legacy-Healthcare-Management-System-Phase1
 ├── README.md
-├── SECD2613_Project Phase 1_Legacy Healthcare Management System_Group 5.pdf               
+├── SECD2613_Project Phase 2_Legacy Healthcare Management System_Group 5.pdf               
 └── Diagrams
-    ├── task-oriented_wbs.png
-    ├── gantt.png
-    └── pert.png                                                                               
+    ├── .png
+    ├── .png
+    └── .png                                                                               
 ```
+
+---
+
+## 🧾 Phase 2 Sections Overview
+
+| Section | Title                                   |
+|---------|-----------------------------------------|
+| 1.0     | Overview of the Project                 |
+| 2.0     | Problem Statement                       |
+| 3.0     | Proposed Solutions                      |
+| 4.0     | Information Gathering Process           |
+| 4.1     | Methodology Used                        |
+| 4.2     | Summary from Method Used                |
+| 5.0     | Requirement Analysis                    |
+| 5.1     | Current Business Process/Workflow       |
+| 5.2     | Functional Requirements (AS-IS)         |
+| 5.3     | Non-Functional Requirements (AS-IS)     |
+| 5.4     | Logical Data Flow Diagram (DFD-AS-IS)   |
+| 6.0     | Summary of Requirement Analysis Process |
+| 7.0     | Appendix A: Disclaimer                  |
+| 8.0     | Appendix B: References                  |
 
 ---
 
@@ -33,24 +54,7 @@ Legacy-Healthcare-Management-System-Phase1
 - [Siong](https://github.com/Siong010) – Backend Developer  
 - [Lee](https://github.com/ryussiyu) – Frontend Developer  
 - [Siti](https://github.com/smadakhir) – UI/UX Designer
-
----
-
-## 🧾 Phase 1 Sections Overview
-
-| Section | Title                          |
-|---------|--------------------------------|
-| 1.0     | Introduction                   |
-| 2.0     | Background Study               |
-| 3.0     | Problem Statement              |
-| 4.0     | Proposed Solution              |
-| 5.0     | Objectives                     |
-| 6.0     | Scope                          |
-| 7.0     | Project Planning               |
-| 8.0     | Benefits and Summary           |
-| 9.0     | Appendix A: Disclaimer         |
-| 10.0    | Appendix B: References         |
-
+  
 ---
 
 ## ⚠️ Disclaimer
