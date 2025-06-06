@@ -1,6 +1,6 @@
-# 🏥 Modernization of Legacy Healthcare Management System – Phase 1
+# 🏥 Modernization of Legacy Healthcare Management System
 
-This repository contains the Phase 1 proposal and planning documentation for a system modernization project. The objective is to technically upgrade a legacy Healthcare Management System (HMS) originally built in 1997 using outdated technologies like Progress 10C and Silverlight.
+This repository contains the proposal and planning documentation for a system modernization project. The objective is to technically upgrade a Legacy Healthcare Management System (HMS) originally built in 1997 using outdated technologies like Progress 10C and Silverlight.
 
 ## 🎯 Project Objective
 
