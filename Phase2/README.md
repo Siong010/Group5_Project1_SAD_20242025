@@ -20,14 +20,14 @@ Legacy-Healthcare-Management-System-Phase2
 ├── README.md
 ├── SECD2613_Project Phase 2_Legacy Healthcare Management System_Group 5.pdf               
 └── Diagrams
-    ├── .png
-    ├── .png
-    ├── .png
-    ├── .png
-    ├── .png
-    ├── .png
-    ├── .png
-    └── .png                                                                               
+    ├── Current Workflow.png
+    ├── Phase 2 Child Diagram Appointment Scheduling (Process 2).png
+    ├── Phase 2 Child Diagram Billing & Reconciliation (Process 3).png
+    ├── Phase 2 Child Diagram Inventory Management (Process 4).png
+    ├── Phase 2 Child Diagram Patient Registration (Process 1).png
+    ├── Phase 2 Child Diagram Reporting (Process 5).png
+    ├── Phase 2 Context Diagram (Level 0).png
+    └── Phase 2 Diagram 0.png                                                                           
 ```
 
 ---
