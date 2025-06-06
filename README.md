@@ -24,17 +24,6 @@ Legacy-Healthcare-Management-System
 - [Phase3_Wireframe](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase3_Wireframe)
 - README.md
 
-
-
----
-
-## 🧑‍🤝‍🧑 Team Members
-
-- [Laily](https://github.com/lailies82) – Project Manager  
-- [Siong](https://github.com/Siong010) – Backend Developer  
-- [Lee](https://github.com/ryussiyu) – Frontend Developer  
-- [Siti](https://github.com/smadakhir) – UI/UX Designer
-
 ---
 
 ## 🧾 Phase 1 Sections Overview
@@ -52,6 +41,57 @@ Legacy-Healthcare-Management-System
 | 9.0     | Appendix A: Disclaimer         |
 | 10.0    | Appendix B: References         |
 
+---
+
+## 🧾 Phase 2 Sections Overview
+
+| Section | Title                                   |
+|---------|-----------------------------------------|
+| 1.0     | Overview of the Project                 |
+| 2.0     | Problem Statement                       |
+| 3.0     | Proposed Solutions                      |
+| 4.0     | Information Gathering Process           |
+| 4.1     | Methodology Used                        |
+| 4.2     | Summary from Method Used                |
+| 5.0     | Requirement Analysis                    |
+| 5.1     | Current Business Process/Workflow       |
+| 5.2     | Functional Requirements (AS-IS)         |
+| 5.3     | Non-Functional Requirements (AS-IS)     |
+| 5.4     | Logical Data Flow Diagram (DFD-AS-IS)   |
+| 6.0     | Summary of Requirement Analysis Process |
+| 7.0     | Appendix A: Disclaimer                  |
+| 8.0     | Appendix B: References                  |
+
+---
+
+## 🧾 Phase 3 Sections Overview
+
+| Section | Title                             |
+|---------|-----------------------------------|
+| 1.0     | Overview of the Project           |
+| 2.0     | Problem Statement                 |
+| 3.0     | Proposed Solutions                |
+| 4.0     | Current Business Process/Workflow |
+| 5.0     | Logical DFD (AS-IS)               |
+| 6.0     | System Analysis and Specification |
+| 6.1     | Logical DFD TO-BE System          |
+| 6.2     | Process Specification             |
+| 7.0     | Physical System Design            |
+| 7.1     | Physical DFD TO-BE System         |
+| 8.0     | System Wireframe                  |
+| 9.0     | Summary of the Proposed System    |
+| 10.0    | Appendix A: Disclaimer            |
+| 11.0    | Appendix B: References            |
+
+---
+
+## 🧑‍🤝‍🧑 Team Members
+
+- [Laily](https://github.com/lailies82) – Project Manager  
+- [Siong](https://github.com/Siong010) – Backend Developer  
+- [Lee](https://github.com/ryussiyu) – Frontend Developer  
+- [Siti](https://github.com/smadakhir) – UI/UX Designer
+  
 ---
 
 ## ⚠️ Disclaimer
