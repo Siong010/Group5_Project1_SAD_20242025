@@ -16,12 +16,13 @@ To modernize the existing system's backend and user interface while preserving i
 ## 📁 Repository Structure
 
 
-Legacy-Healthcare-Management-System-Phase1
-├── [Phase1](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase1)
-├── [Phase2](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase2)
-├── [Phase3](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase3)
-├── [Phase3_Wireframe](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase3_Wireframe)
-└── README.md
+Legacy-Healthcare-Management-System
+
+- [Phase1](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase1)
+- [Phase2](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase2)
+- [Phase3](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase3)
+- [Phase3_Wireframe](https://github.com/Siong010/Group5_Project1_SAD_20242025/tree/main/Phase3_Wireframe)
+- README.md
 
 
 
