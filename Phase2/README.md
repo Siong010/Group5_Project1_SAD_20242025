@@ -26,7 +26,7 @@ Legacy-Healthcare-Management-System-Phase2
     ├── Phase 2 Child Diagram Inventory Management (Process 4).png
     ├── Phase 2 Child Diagram Patient Registration (Process 1).png
     ├── Phase 2 Child Diagram Reporting (Process 5).png
-    ├── Phase 2 Context Diagram (Level 0).png
+    ├── Phase 2 Context Diagram.png
     └── Phase 2 Diagram 0.png                                                                           
 ```
 
